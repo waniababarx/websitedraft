@@ -34,9 +34,9 @@ header{
 }
 
 .logo{
-    font-size:34px;
+    font-size:28px;
     font-weight:700;
-    letter-spacing:4px;
+    letter-spacing:3px;
     color:white;
 }
 
@@ -121,28 +121,24 @@ nav a:hover{
 }
 
 .hero-left h1{
-    font-size:84px;
-
-    line-height:1.05;
-
+    font-size:72px;
+    line-height:1.1;
     font-weight:800;
-
-    margin-bottom:30px;
+    margin-bottom:25px;
 }
 
 .hero-left h1 span{
     color:#d8b75d;
 }
+.hero-left h1 span{
+    color:#d8b75d;
+}
 
 .hero-left p{
-    font-size:24px;
-
-    line-height:1.7;
-
-    color:#d4d4d4;
-
-    max-width:850px;
-
+    font-size:18px;
+    line-height:1.8;
+    color:#b8bcc5;
+    max-width:700px;
     margin-bottom:40px;
 }
 
